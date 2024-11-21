@@ -1,6 +1,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franzsuperales)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franzsuperales&hide=javascript,html)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=franzsuperales)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franzsuperales&show_icons=true&theme=onedark)
 
